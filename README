@@ -51,7 +51,7 @@ Results:
        -1 represent that the corresponding sequence has been predicted as a negative candidate.]
   These features are in the order[dD,MFEI8,%AA,dP,mis_num_begin,MFEI7,MFEI4,|G-C|/L,A..._S_end,G..._S_begin,MFEI6,U..._S,C(((_S_end,avg_mis_num,G(((_S_end,G(((_S,MFEI5,Tm,Tm/L,%CA,%UG,%UA,%GA,%UC,%UU,Diversity,MFEI9,dQ,mis_num_end,A(((_S_end,U(((_S_end,MFEI3,%(A-U)/n_stems,U..._S_end,C(.._S_end,A(.._S_end,C.((_S,G((._S,C((._S_end,G((._S_begin,NEFE,A(((_S,G(.(_S,U(.._S_end,A(.._S_begin,C..._S,C(((_S,C..(_S,G..(_S,C(((_S_begin,U.((_S_begin,G..._S,U..(_S_end,A..(_S_begin,A(.._S,G(((_S_begin,C((._S,G(.._S_end,U.(._S_end,zP,dH,|A-U|/L,%CU]. 
 - The results of the predictions will be written to 'miPlantPreMat/SVMMat/input_file.predictions'.
-  [Here +1 represent that the corresponding sequence has been predicted as a pre-miRNA candidate.
+  [Here +1 represent that the corresponding sequence has been predicted as a miRNA candidate.
        -1 represent that the corresponding sequence has been predicted as a negative candidate.]
 
 ----------------------------------------------------------------------------------------------------------------------------
